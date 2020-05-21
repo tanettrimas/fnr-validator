@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "types": ["node", "jest"],
+    "outDir": "dist/",
+  },
+  "exclude": ["src/__tests__/**.*"]
+}
