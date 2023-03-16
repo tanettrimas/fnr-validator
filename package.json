@@ -13,7 +13,7 @@
   "author": "Tanet Trimas <tanet@trimas.no>",
   "license": "MIT",
   "devDependencies": {
-    "@babel/cli": "7.10.4",
+    "@babel/cli": "7.12.0",
     "@babel/core": "7.10.4",
     "@babel/preset-env": "7.10.4",
     "@babel/preset-typescript": "7.10.4",
